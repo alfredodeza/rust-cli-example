@@ -33,5 +33,6 @@ fn run_lsblk(device: &str) -> serde_json::Value {
 fn main() {
     let args: Vec<String> = std::env::args().collect();
     let device = args.last().unwrap();
-    println!("         '{:?}'", run_lsblk(&device));
+    let output = serde_json::to_string(&run_lsblk(&device)).unwrap();
+    println!("{}", output);
 }
