@@ -24,8 +24,11 @@ As part of your development workflow, I highly suggest you use the following pro
 - `cargo clippy` - Lints your code and helps you find errors and potential issues
 - `cargo check` - Checks your code for errors and allows you to fix them before compiling (which means its faster!)
 
+
 ## Resources
 Explore additional content that you can use to learn more about the topics covered in this course.
+
+- [Releasing](./docs/releasing.md)
 
 **Coursera Courses**
 
