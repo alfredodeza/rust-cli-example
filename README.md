@@ -28,7 +28,7 @@ As part of your development workflow, I highly suggest you use the following pro
 ## Resources
 Explore additional content that you can use to learn more about the topics covered in this course.
 
-- [Releasing](./docs/releasing.md)
+- [Releasing](./resources/releasing.md)
 
 **Coursera Courses**
 
