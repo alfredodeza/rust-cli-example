@@ -10,7 +10,10 @@ In this lab, you will build a command line tool that lists files in a directory.
 
 **Steps:**
 
-1. Create a new repository in your account for your Rust project. Use the [Rust template repository](https://github.com/alfredodeza/rust-template) to quickly generate one for your own account. Use this link to [create it in one step](https://github.com/alfredodeza/rust-template/generate).
+For an easy setup with all dependencies installed and a pre-configured `virtualenv`, [open the repository with Codespaces](https://codespaces.new/alfredodeza/rust-cli-example?quickstart=1)
+
+Alternate setup: Create a new repository in your account for your Rust project. Use this link to [create it in one step](https://github.com/alfredodeza/rust-template/generate).
+
 1. Use the Clap framework to parse command line arguments. Use the [simple example in this repository](./examples/simple/src/main.rs) as a reference
 1. Use the `std::fs` module to read files. For example:
 
@@ -30,7 +33,7 @@ fn main() {
 
 **Concepts Covered:**
 
-- [x] Build a command line tool using the Rust programming language 
+- [x] Build a command line tool using the Rust programming language
 - [x] Use the `Clap` framework to parse command line arguments
 - [x] Using the Rust standard library to read files and directories
 
