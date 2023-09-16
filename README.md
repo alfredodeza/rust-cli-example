@@ -2,6 +2,16 @@
 
 A small Rust CLI example you can use to build on. With an emphasis on Linux and creating automation tools that solve a problem for you. This is the basis for DevOps principles that you can apply in day-to-day work.
 
+💡 Are you just looking for a 👉 [Rust template](https://github.com/alfredodeza/rust-template) to get started easily with a project? The [template](https://github.com/alfredodeza/rust-template) has everything you need!
+
+This repository is part of the Python and Rust CLI tools course:
+
+- [1: Resources](https://github.com/alfredodeza/python-and-rust-tools) 
+- [2: Python CLI](https://github.com/alfredodeza/python-cli-example)
+- [3: Rust CLI](https://github.com/alfredodeza/rust-cli-example)  👈 You are here!
+- [4: Python Advanced CLI](https://github.com/alfredodeza/advanced-python-cli)
+- [5: Rust Advanced CLI](https://github.com/alfredodeza/advanced-rust-cli)
+
 ## Practice Lab
 Use the [included practice lab](./lab.md) to apply the content you've learned in this week. Follow the steps to create your own repository and apply the requirements to complete the lab.
 
