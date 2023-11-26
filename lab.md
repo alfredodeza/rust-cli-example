@@ -10,7 +10,7 @@ In this lab, you will build a command line tool that lists files in a directory.
 
 **Steps:**
 
-For an easy setup with all dependencies installed and a pre-configured `virtualenv`, [open the repository with Codespaces](https://codespaces.new/alfredodeza/rust-cli-example?quickstart=1)
+For an easy setup with all dependencies installed and a pre-configured Rust and Cargo, [open the repository with Codespaces](https://codespaces.new/alfredodeza/rust-cli-example?quickstart=1)
 
 Alternate setup: Create a new repository in your account for your Rust project. Use this link to [create it in one step](https://github.com/alfredodeza/rust-template/generate).
 
