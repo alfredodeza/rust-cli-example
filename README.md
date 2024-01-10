@@ -1,3 +1,5 @@
+# [![Coursera Course](./resources/banner.svg)](https://insight.paiml.com/nvd "Coursera Course")
+
 # Rust CLI Example
 
 A small Rust CLI example you can use to build on. With an emphasis on Linux and creating automation tools that solve a problem for you. This is the basis for DevOps principles that you can apply in day-to-day work.
