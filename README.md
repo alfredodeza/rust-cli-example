@@ -14,9 +14,6 @@ This repository is part of the Python and Rust CLI tools course:
 - [4: Python Advanced CLI](https://github.com/alfredodeza/advanced-python-cli)
 - [5: Rust Advanced CLI](https://github.com/alfredodeza/advanced-rust-cli)
 
-🚀 **Watch the Video course**
-
-[![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:28037639VIDEOPAIML/400w/)](https://learning.oreilly.com/videos/devops-command-line-tools/28037639VIDEOPAIML/ "Python and Rust CLI tools")
 
 ## Practice Lab
 Use the [included practice lab](./lab.md) to apply the content you've learned in this week. Follow the steps to create your own repository and apply the requirements to complete the lab.
